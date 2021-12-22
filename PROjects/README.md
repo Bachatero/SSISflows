@@ -1,5 +1,2 @@
-# What also floats in water?
+# a sample of my SSIS flows
 
-"A duck"
-
-_Arthur, King of the Britons, AD 537 at about 5PM_  
